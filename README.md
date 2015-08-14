@@ -1,5 +1,9 @@
 # lita-octocat
 
+[![Build Status](https://travis-ci.org/brodock/lita-octocat.svg)](https://travis-ci.org/brodock/lita-octocat)
+[![Coverage Status](https://coveralls.io/repos/brodock/lita-octocat/badge.svg?branch=master&service=github)](https://coveralls.io/github/brodock/lita-octocat?branch=master)
+
+
 Display ascii octocat saying random things.
 
 ## Installation
